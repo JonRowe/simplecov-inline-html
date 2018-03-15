@@ -1,0 +1,8 @@
+.rvmrc
+.bundle
+Gemfile.lock
+
+coverage
+rdoc
+pkg
+.sass-cache
